@@ -1,0 +1,16 @@
+{
+    "name": "omar/with-strategy",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gmfaruk",
+            "email": "gmfaruk2021@gmail.com"
+        }
+    ],
+    "require": {}
+}
